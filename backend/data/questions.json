@@ -1,0 +1,192 @@
+{
+    "example_video.mp4": {
+        "4.00": [
+            {
+                "question": "What is stored on the disk in terms of storage management?",
+                "options": {
+                    "1": "Files and file names",
+                    "2": "Data stored in blocks",
+                    "3": "Logical concepts",
+                    "4": "User and programmer details"
+                },
+                "correct option": 2
+            },
+            {
+                "question": "What is the standard size of a sector on a disk?",
+                "options": {
+                    "1": "256 bytes",
+                    "2": "512 bytes",
+                    "3": "1024 bytes",
+                    "4": "2048 bytes"
+                },
+                "correct option": 2
+            },
+            {
+                "question": "What is used by programmers and users to identify individual files?",
+                "options": {
+                    "1": "File name",
+                    "2": "File control block number",
+                    "3": "Index node number",
+                    "4": "File attributes"
+                },
+                "correct option": 2
+            },
+            {
+                "question": "Who has read, write, and execute privileges for a file by default?",
+                "options": {
+                    "1": "Group members",
+                    "2": "File owner",
+                    "3": "Operating system",
+                    "4": "Programmers"
+                },
+                "correct option": 2
+            },
+            {
+                "question": "What system call can be used in Linux or Unix to seek within a file?",
+                "options": {
+                    "1": "LSEC",
+                    "2": "OPEN",
+                    "3": "READ",
+                    "4": "WRITE"
+                },
+                "correct option": 1
+            }
+        ],
+        "8.00": [
+            {
+                "question": "What is stored on the disk in terms of storage management?",
+                "options": {
+                    "1": "File names",
+                    "2": "Bytes or blocks of data",
+                    "3": "File structures",
+                    "4": "File attributes"
+                },
+                "correct option": 2
+            },
+            {
+                "question": "What is the purpose of an I-node or file control block?",
+                "options": {
+                    "1": "To store file attributes",
+                    "2": "To identify individual files",
+                    "3": "To track file open count",
+                    "4": "To enforce file locking"
+                },
+                "correct option": 2
+            },
+            {
+                "question": "What type of lock is enforced by the operating system in Windows?",
+                "options": {
+                    "1": "Advisory lock",
+                    "2": "Mandatory lock",
+                    "3": "No lock",
+                    "4": "Conditional lock"
+                },
+                "correct option": 2
+            },
+            {
+                "question": "What is the purpose of seeking within a file?",
+                "options": {
+                    "1": "To read a file",
+                    "2": "To write a file",
+                    "3": "To position the file pointer within the file",
+                    "4": "To delete a file"
+                },
+                "correct option": 3
+            },
+            {
+                "question": "What is a file extension in Unix and Linux, but not in Windows?",
+                "options": {
+                    "1": "Required for executable files",
+                    "2": "Optional for executable files",
+                    "3": "Not used for executable files",
+                    "4": "Used for batch files only"
+                },
+                "correct option": 2
+            }
+        ],
+        "12.00": [
+            {
+                "question": "What is stored on the disk in terms of bytes or blocks?",
+                "options": {
+                    "1": "File names",
+                    "2": "Data blocks",
+                    "3": "File attributes",
+                    "4": "File permissions"
+                },
+                "correct option": 2
+            },
+            {
+                "question": "What is the purpose of the file control block (FCB) or inode?",
+                "options": {
+                    "1": "To identify individual files",
+                    "2": "To protect file access",
+                    "3": "To store file attributes",
+                    "4": "To track open files"
+                },
+                "correct option": 1
+            },
+            {
+                "question": "What is the purpose of seeking within a file?",
+                "options": {
+                    "1": "To read a file from the beginning",
+                    "2": "To position the file pointer at a specific location",
+                    "3": "To write a file to the end",
+                    "4": "To delete a file"
+                },
+                "correct option": 2
+            },
+            {
+                "question": "What type of lock is enforced by some operating systems, preventing other processes from accessing a file?",
+                "options": {
+                    "1": "Advisory lock",
+                    "2": "Mandatory lock",
+                    "3": "Sequential lock",
+                    "4": "Relative lock"
+                },
+                "correct option": 2
+            },
+            {
+                "question": "What is the purpose of the index method in file access?",
+                "options": {
+                    "1": "To simulate sequential access",
+                    "2": "To provide faster access to data",
+                    "3": "To store file attributes",
+                    "4": "To track open files"
+                },
+                "correct option": 2
+            }
+        ]
+    },
+    "example_video_1.mp4": {
+        "4.00": [
+            {
+                "question": "What are the key responsibilities of an operating system regarding directory structure and file systems?",
+                "correct answer": "The operating system has several key responsibilities regarding directory structure and file systems. Firstly, it needs to track directory information in a slightly different way to create and maintain the directory structure as part of the file system. This involves supporting multiple file systems, such as unique file systems, extended file systems like AXT, ZFUS, and network file systems for remote file systems. The operating system also needs to perform various operations on directories, including creating and deleting files, listing directories, renaming files, and traversing the file system. Additionally, it must ensure that files are maintained and can be located quickly, support different file naming conventions, and differentiate between different types of files. Furthermore, it must group users into different categories and provide access methods for individual users and group members. Overall, the operating system plays a crucial role in managing directory structure and file systems to provide efficient and organized storage management."
+            }
+        ],
+        "8.00": [
+            {
+                "question": "What are the primary goals of a directory organization in an operating system?",
+                "correct answer": "The primary goals of a directory organization in an operating system are to ensure that files created in each directory are maintained and can be located quickly, support different file naming conventions, and provide separate storage for files with different types and access permissions. The operating system also aims to support group information, where a set of users can belong to a particular group, and provide different access methods for individual users and group members."
+            }
+        ],
+        "12.00": [
+            {
+                "question": "What is the purpose of a directory organization in the operating system, and how does it track files and subdirectories?",
+                "correct answer": "The purpose of a directory organization in the operating system is to make sure that the files created in each directory are maintained track and can be located quickly. The operating system tracks files and subdirectories by storing information about them in a directory structure. This structure allows the operating system to quickly locate files and subdirectories and to ensure that files are not duplicated or overwritten. The directory structure also allows for the creation of multiple levels of directories, allowing for a hierarchical organization of files and subdirectories."
+            },
+            {
+                "question": "What is the difference between a hard link and a soft link in the context of file systems, and how do they affect file sharing?",
+                "correct answer": "In the context of file systems, a hard link is a separate copy of a file, whereas a soft link or symbolic link is a pointer to a single copy of the file. When a file is changed via a soft link, the change is reflected in the original file, whereas with a hard link, the change only affects the specific copy of the file. Soft links can be used to share files across directories and file systems, but they can also create dangling pointers if the original file is deleted. Hard links, on the other hand, cannot be used to share files across directories and file systems, but they do not create dangling pointers."
+            },
+            {
+                "question": "What are the advantages and disadvantages of using a tree structure versus a graph structure for directory organization?",
+                "correct answer": "A tree structure is a common directory organization method that allows for a hierarchical organization of files and subdirectories. It is easy to implement and allows for efficient file location. However, it does not support file sharing across directories and can create naming conflicts. A graph structure, on the other hand, allows for file sharing across directories and can support a more complex directory organization. However, it can be more difficult to implement and can create complexity in file location."
+            },
+            {
+                "question": "How does the operating system handle file naming conventions and group information, and what are the implications for file sharing?",
+                "correct answer": "The operating system handles file naming conventions by allowing multiple users to create files with the same name, as long as they are in different directories. Group information is handled by allowing multiple users to belong to the same group, which can control access to shared files. However, this can also create complexity in file sharing, as multiple users may need to access the same file. The operating system also supports different file types, such as executable files, binary files, and text files, which can affect file sharing."
+            }
+        ]
+    }
+}

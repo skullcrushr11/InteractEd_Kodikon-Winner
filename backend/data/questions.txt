@@ -1,0 +1,1294 @@
+
+Video Title: example_video.mp4, Timestamp: 0.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "Bytes",
+            "2": "Data blocks",
+            "3": "Sectors",
+            "4": "Tracks"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the usual size of a sector on a disk?",
+        "options": {
+            "1": "256 bytes",
+            "2": "512 bytes",
+            "3": "1024 bytes",
+            "4": "2048 bytes"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the identifier used by the operating system to identify individual files?",
+        "options": {
+            "1": "File name",
+            "2": "I node or file control block",
+            "3": "File size",
+            "4": "File type"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "Who can execute a file by default?",
+        "options": {
+            "1": "Only the owner",
+            "2": "Only the group",
+            "3": "The owner and the group",
+            "4": "Everyone"
+        },
+        "correct option": 1
+    },
+    {
+        "question": "What system call can be used to seek within a file in Linux or Unix?",
+        "options": {
+            "1": "LSEC",
+            "2": "SEEK",
+            "3": "FSCK",
+            "4": "LSNR"
+        },
+        "correct option": 1
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 4.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "Bytes",
+            "2": "Blocks",
+            "3": "Sectors",
+            "4": "Tracks"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is used by programmers and users to identify individual files?",
+        "options": {
+            "1": "File name",
+            "2": "File control block number",
+            "3": "Index node number",
+            "4": "File attribute"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What can be achieved using the file handle or file descriptor?",
+        "options": {
+            "1": "File deletion",
+            "2": "Seeking within a file",
+            "3": "File truncation",
+            "4": "File creation"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What type of lock is enforced by the operating system in Windows?",
+        "options": {
+            "1": "Advisory lock",
+            "2": "Mandatory lock",
+            "3": "Read-only lock",
+            "4": "Write-only lock"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is true about file extensions in Unix and Linux?",
+        "options": {
+            "1": "All executable files must have an extension",
+            "2": "Executable files need not have an extension",
+            "3": "Source code files must have a .c extension",
+            "4": "Batch files must have a .sh extension"
+        },
+        "correct option": 2
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 8.00
+[
+    {
+        "question": "What is stored on the disk or as far as storage management is concerned?",
+        "options": {
+            "1": "File names",
+            "2": "Data stored in terms of bytes or blocks",
+            "3": "File attributes",
+            "4": "File extension"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of a file attribute?",
+        "options": {
+            "1": "To identify a file",
+            "2": "To store file data",
+            "3": "To provide access rights",
+            "4": "To protect a file"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What type of lock is enforced by the operating system in the case of Windows?",
+        "options": {
+            "1": "Advisory lock",
+            "2": "Mandatory lock",
+            "3": "Both",
+            "4": "None"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of an index method in file access?",
+        "options": {
+            "1": "To provide sequential access",
+            "2": "To provide direct access",
+            "3": "To provide faster access",
+            "4": "To provide random access"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What is the goal of the operating system in file access?",
+        "options": {
+            "1": "To slow down the file access",
+            "2": "To locate the data in the shortest period of time",
+            "3": "To store the file data",
+            "4": "To protect the file"
+        },
+        "correct option": 2
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 0.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "Bytes",
+            "2": "Data blocks",
+            "3": "Logical concepts",
+            "4": "File names"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is each sector usually?",
+        "options": {
+            "1": "1024 bytes",
+            "2": "512 bytes",
+            "3": "1 KB",
+            "4": "1 MB"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the identifier of a file called?",
+        "options": {
+            "1": "File name",
+            "2": "File control block number",
+            "3": "I node number",
+            "4": "FCB number"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "Who can do all the operations (read, write, execute) on a file by default?",
+        "options": {
+            "1": "Group members",
+            "2": "File owner",
+            "3": "Operating system",
+            "4": "Programmers"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "Which system call is used to seek within a file in Linux or Unix using C programming?",
+        "options": {
+            "1": "LSEC",
+            "2": "SEEK",
+            "3": "READ",
+            "4": "WRITE"
+        },
+        "correct option": 1
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 4.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "Files",
+            "2": "Data in blocks",
+            "3": "File names",
+            "4": "File attributes"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the identifier of a file called?",
+        "options": {
+            "1": "File name",
+            "2": "I node",
+            "3": "File control block",
+            "4": "File size"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What type of lock is enforced by the operating system in Windows?",
+        "options": {
+            "1": "Advisory lock",
+            "2": "Mandatory lock",
+            "3": "File lock",
+            "4": "Directory lock"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "In Unix and Linux, file extensions are not necessary for executable files",
+        "options": {
+            "1": "True",
+            "2": "False"
+        },
+        "correct option": 1
+    },
+    {
+        "question": "What is the purpose of the Open File Table in an operating system?",
+        "options": {
+            "1": "To store file attributes",
+            "2": "To keep track of open files",
+            "3": "To store file names",
+            "4": "To store file types"
+        },
+        "correct option": 2
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 8.00
+[
+    {
+        "question": "What is stored on the disk in terms of bytes?",
+        "options": {
+            "1": "Data blocks on the disk",
+            "2": "Files and file names",
+            "3": "Logical concept",
+            "4": "Physical concept"
+        },
+        "correct option": 1
+    },
+    {
+        "question": "What is used by programmers and users to identify individual files?",
+        "options": {
+            "1": "File name",
+            "2": "I-node or file control block (FCB) number",
+            "3": "Track and sector number",
+            "4": "Disk number"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the file attribute that includes the type of the file and location on the device?",
+        "options": {
+            "1": "File name",
+            "2": "File size",
+            "3": "Type and location",
+            "4": "Access privileges"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What type of lock is enforced by the operating system in Windows?",
+        "options": {
+            "1": "Advisory lock",
+            "2": "Mandatory lock",
+            "3": "Optional lock",
+            "4": "Conditional lock"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What type of file structure is supported by the operating system?",
+        "options": {
+            "1": "Simple structure",
+            "2": "Complex structure",
+            "3": "Fixed length record",
+            "4": "Variable length record"
+        },
+        "correct option": 4
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 0.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "Bytes",
+            "2": "Data blocks",
+            "3": "Sectors",
+            "4": "Tracks"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the term used to identify individual files?",
+        "options": {
+            "1": "File control block",
+            "2": "I-node",
+            "3": "File handle",
+            "4": "File descriptor"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "Who can perform all three operations (read, write, execute) on a file by default?",
+        "options": {
+            "1": "Group members",
+            "2": "File owner",
+            "3": "System administrator",
+            "4": "All users"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of the seek operation within a file?",
+        "options": {
+            "1": "To read a file",
+            "2": "To modify a file",
+            "3": "To position the file pointer",
+            "4": "To delete a file"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What is the term used to refer to the operations that can be performed on a file?",
+        "options": {
+            "1": "File attributes",
+            "2": "File operations",
+            "3": "File types",
+            "4": "File protection"
+        },
+        "correct option": 2
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 4.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "Logical files",
+            "2": "Bytes or data blocks",
+            "3": "File names",
+            "4": "Sectors"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is used by programmers and users to identify individual files?",
+        "options": {
+            "1": "File name",
+            "2": "FCB number",
+            "3": "I node",
+            "4": "Sector number"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What type of lock is enforced by the operating system in Windows?",
+        "options": {
+            "1": "Advisory lock",
+            "2": "Mandatory lock",
+            "3": "None",
+            "4": "Optional lock"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of the open file table in the operating system?",
+        "options": {
+            "1": "To track file sizes",
+            "2": "To keep statistics",
+            "3": "To keep track of open files",
+            "4": "To access file attributes"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What is the case with executable files in Unix and Linux operating systems?",
+        "options": {
+            "1": "They always have an extension",
+            "2": "They never have an extension",
+            "3": "They can have an extension",
+            "4": "They can't be executable"
+        },
+        "correct option": 2
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 8.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "File names and file types",
+            "2": "Data stored in terms of bytes or blocks",
+            "3": "Logical concepts",
+            "4": "Operating system commands"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the identifier called that is used by the operating system to identify individual files?",
+        "options": {
+            "1": "File control block number",
+            "2": "Index node number",
+            "3": "File handle",
+            "4": "File descriptor"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What type of lock is enforced by the operating system to prevent other processes or users from accessing a file?",
+        "options": {
+            "1": "Advisory lock",
+            "2": "Mandatory lock",
+            "3": "Read-only lock",
+            "4": "Write-only lock"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What type of file structure does the operating system support?",
+        "options": {
+            "1": "Simple structure only",
+            "2": "Complex structures like formatted documents",
+            "3": "Only fixed-length records",
+            "4": "Only variable-length records"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the goal of the operating system when accessing data on the disk?",
+        "options": {
+            "1": "To store the data in the shortest possible time",
+            "2": "To locate the data in the shortest possible time",
+            "3": "To read the data in the shortest possible time",
+            "4": "To write the data in the shortest possible time"
+        },
+        "correct option": 2
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 0.00
+[
+    {
+        "question": "What is the file concept in terms of storage management?",
+        "options": {
+            "1": "A logical concept that deals with file names and logical blocks",
+            "2": "A physical concept that deals with bytes and sectors on the disk",
+            "3": "A hardware concept that deals with processors and memory",
+            "4": "A software concept that deals with operating systems and applications"
+        },
+        "correct option": 1
+    },
+    {
+        "question": "What is the purpose of the file control block (FCB) or inode number?",
+        "options": {
+            "1": "To identify the location of a file on the disk",
+            "2": "To identify the type of a file",
+            "3": "To identify an individual file",
+            "4": "To identify the owner of a file"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What are the three main operations that the owner of a file can perform?",
+        "options": {
+            "1": "Read, write, and delete",
+            "2": "Read, write, and execute",
+            "3": "Read, modify, and execute",
+            "4": "Read, write, and access"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of seeking within a file?",
+        "options": {
+            "1": "To read a file from the beginning to the end",
+            "2": "To position the file pointer at a particular location within the file",
+            "3": "To write data to a file",
+            "4": "To delete a file"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the system call used in Linux or Unix to seek within a file?",
+        "options": {
+            "1": "LSEC",
+            "2": "LSEEK",
+            "3": "SEEK",
+            "4": "READ"
+        },
+        "correct option": 2
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 4.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "Bytes",
+            "2": "Blocks",
+            "3": "Sectors",
+            "4": "Files"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is used by programmers and users to identify individual files?",
+        "options": {
+            "1": "Name",
+            "2": "Identifier",
+            "3": "File Control Block",
+            "4": "Index Node"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What type of lock does Windows enforce on files?",
+        "options": {
+            "1": "Mandatory lock",
+            "2": "Advisory lock",
+            "3": "Read-only lock",
+            "4": "Write-only lock"
+        },
+        "correct option": 1
+    },
+    {
+        "question": "What is the purpose of the open file table in an operating system?",
+        "options": {
+            "1": "To store file attributes",
+            "2": "To keep track of open files",
+            "3": "To store file structures",
+            "4": "To store file extensions"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of a file descriptor or file handle?",
+        "options": {
+            "1": "To create a file",
+            "2": "To read a file",
+            "3": "To seek within a file",
+            "4": "To delete a file"
+        },
+        "correct option": 3
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 8.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "File names",
+            "2": "Data stored in bytes or blocks",
+            "3": "Logical concepts",
+            "4": "Operating system"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the identifier for a file?",
+        "options": {
+            "1": "File control block",
+            "2": "Index node",
+            "3": "File name",
+            "4": "Block number"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What type of lock is enforced by the operating system in Windows?",
+        "options": {
+            "1": "Advisory lock",
+            "2": "Mandatory lock",
+            "3": "Sequential lock",
+            "4": "Relative lock"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of the index method in accessing a file?",
+        "options": {
+            "1": "To locate the data in the shortest period of time",
+            "2": "To read the file sequentially",
+            "3": "To provide faster access",
+            "4": "To maintain the index file"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What type of file access is supported by the operating system for a tape-like file?",
+        "options": {
+            "1": "Sequential access only",
+            "2": "Relative access only",
+            "3": "Sequential and relative access",
+            "4": "Direct access only"
+        },
+        "correct option": 3
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 0.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "Data stored in terms of kilobytes",
+            "2": "Data stored in terms of bytes or blocks",
+            "3": "Data stored in terms of megabytes",
+            "4": "Data stored in terms of gigabytes"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "How many bytes is each sector usually?",
+        "options": {
+            "1": "256 bytes",
+            "2": "512 bytes",
+            "3": "1024 bytes",
+            "4": "2048 bytes"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is another name for the identifier that the operating system uses to identify individual files?",
+        "options": {
+            "1": "File Name",
+            "2": "File Control Block Number",
+            "3": "Index Node Number",
+            "4": "File Size"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What is the concept of seeking within a file in relation to the file descriptor?",
+        "options": {
+            "1": "Moving the file pointer to the beginning of the file",
+            "2": "Positioning the file pointer at any location within the file",
+            "3": "Deleting the file",
+            "4": "Creating a new file"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What system call can be used to seek within a file in Linux or Unix and C program?",
+        "options": {
+            "1": "LSEC system call",
+            "2": "LOAD system call",
+            "3": "LSEEK system call",
+            "4": "LIST system call"
+        },
+        "correct option": 3
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 4.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "Files",
+            "2": "Data in terms of bytes or blocks",
+            "3": "Sectors",
+            "4": "Tracks"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is used by programmers and users to identify individual files?",
+        "options": {
+            "1": "File name",
+            "2": "I node or file control block",
+            "3": "File type",
+            "4": "Data size"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What type of lock is enforced by the operating system in Windows?",
+        "options": {
+            "1": "Advisory lock",
+            "2": "Mandatory lock",
+            "3": "File lock",
+            "4": "Access lock"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "File extensions are used in which operating system family?",
+        "options": {
+            "1": "Windows",
+            "2": "Linux and Unix",
+            "3": "MacOS",
+            "4": "Android"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is used to seek within a file?",
+        "options": {
+            "1": "File descriptor",
+            "2": "File handle",
+            "3": "File name",
+            "4": "File size"
+        },
+        "correct option": 1
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 0.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "Logical files",
+            "2": "Bytes or data blocks",
+            "3": "File names",
+            "4": "Directories"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is an I node or file control block?",
+        "options": {
+            "1": "A sector on the disk",
+            "2": "A file attribute",
+            "3": "An identifier for an individual file",
+            "4": "A type of file"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What is an example of a file attribute?",
+        "options": {
+            "1": "File name only",
+            "2": "File name, type, location, and controls",
+            "3": "File size only",
+            "4": "File type only"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "Who can execute a file by default?",
+        "options": {
+            "1": "Only the owner of the file",
+            "2": "The owner of the file and those in a particular group",
+            "3": "Any user with access to the file",
+            "4": "Only the creator of the file"
+        },
+        "correct option": 1
+    },
+    {
+        "question": "What is the purpose of seeking within a file?",
+        "options": {
+            "1": "To read a file",
+            "2": "To create a file",
+            "3": "To position the file pointer within a file",
+            "4": "To execute a file"
+        },
+        "correct option": 3
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 0.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "Files",
+            "2": "Bytes or data blocks",
+            "3": "Sectors",
+            "4": "Tracks"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is used by programmers and users to identify individual files?",
+        "options": {
+            "1": "File name",
+            "2": "I-node or file control block",
+            "3": "File attributes",
+            "4": "File size"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of the file handle or file descriptor?",
+        "options": {
+            "1": "To read a file",
+            "2": "To seek to a particular data within a file",
+            "3": "To write a file",
+            "4": "To create a file"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the default access privilege provided by the system?",
+        "options": {
+            "1": "Only read access",
+            "2": "Read, write and execute access",
+            "3": "Only write access",
+            "4": "Only execute access"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the typical size of a sector on a disk?",
+        "options": {
+            "1": "1024 bytes",
+            "2": "512 bytes",
+            "3": "1024 kilobytes",
+            "4": "512 megabytes"
+        },
+        "correct option": 2
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 4.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "Files",
+            "2": "Data stored in terms of bytes or blocks",
+            "3": "Logical concept",
+            "4": "File control block"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the identifier of a file called?",
+        "options": {
+            "1": "File name",
+            "2": "Identifier",
+            "3": "I node or file control block",
+            "4": "File size"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What type of lock is enforced by the operating system in Windows?",
+        "options": {
+            "1": "Advisory lock",
+            "2": "Mandatory lock",
+            "3": "File control block",
+            "4": "Open file table"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of the open file table?",
+        "options": {
+            "1": "To store file attributes",
+            "2": "To keep track of all the open files at the process level",
+            "3": "To store file extensions",
+            "4": "To enforce mandatory locks"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the file extension for executable files on Unix and Linux?",
+        "options": {
+            "1": ".exe",
+            "2": "No extension",
+            "3": ".bin",
+            "4": ".com"
+        },
+        "correct option": 2
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 8.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "File names",
+            "2": "Data in terms of bytes or blocks",
+            "3": "File attributes",
+            "4": "Operating system codes"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of the file control block (FCB) number?",
+        "options": {
+            "1": "To identify individual files",
+            "2": "To store file attributes",
+            "3": "To store file location",
+            "4": "To store file type"
+        },
+        "correct option": 1
+    },
+    {
+        "question": "What is the purpose of seeking within a file?",
+        "options": {
+            "1": "To create a new file",
+            "2": "To read a file",
+            "3": "To position the file pointer",
+            "4": "To delete a file"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What type of lock is enforced by the Windows operating system?",
+        "options": {
+            "1": "Advisory lock",
+            "2": "Mandatory lock",
+            "3": "None of the above",
+            "4": "Both advisory and mandatory lock"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of an index method in a file system?",
+        "options": {
+            "1": "To store file attributes",
+            "2": "To locate data in a file",
+            "3": "To read a file",
+            "4": "To create a new file"
+        },
+        "correct option": 2
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 0.00
+[
+    {
+        "question": "What is the basic concept of a file?",
+        "options": {
+            "1": "A group of sectors on the disk",
+            "2": "A logical concept that users and programmers deal with",
+            "3": "A physical location on the disk",
+            "4": "A type of data stored on the disk"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the identifier of a file called?",
+        "options": {
+            "1": "File Control Block (FCB) number",
+            "2": "Index Node (I-node) number",
+            "3": "File Name",
+            "4": "File Type"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What are the three basic operations that can be performed on a file?",
+        "options": {
+            "1": "Create, Read, Delete",
+            "2": "Read, Write, Execute",
+            "3": "Create, Modify, Write",
+            "4": "Write, Delete, Execute"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of the file handle or file descriptor?",
+        "options": {
+            "1": "To store the file name",
+            "2": "To access the file attributes",
+            "3": "To seek within a file",
+            "4": "To create a new file"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What is the size of a sector on a disk typically?",
+        "options": {
+            "1": "256 bytes",
+            "2": "512 bytes",
+            "3": "1024 bytes",
+            "4": "2048 bytes"
+        },
+        "correct option": 2
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 4.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "Files",
+            "2": "Data stored in terms of bytes or blocks",
+            "3": "File names",
+            "4": "User names"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the identifier for a file called?",
+        "options": {
+            "1": "File name",
+            "2": "I-node or file control block",
+            "3": "File attributes",
+            "4": "File descriptor"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What type of lock is enforced by the operating system in Windows?",
+        "options": {
+            "1": "Advisory lock",
+            "2": "Mandatory lock",
+            "3": "Read lock",
+            "4": "Write lock"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of an open file table?",
+        "options": {
+            "1": "To store file names",
+            "2": "To keep track of all open files",
+            "3": "To store file attributes",
+            "4": "To store file sizes"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What can be done to truncate a file to zero bytes?",
+        "options": {
+            "1": "Using the `mkdir` system call",
+            "2": "Using the `open` system call",
+            "3": "Using the `truncate` system call",
+            "4": "Using the `delete` system call"
+        },
+        "correct option": 3
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 8.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "File names",
+            "2": "Data in terms of bytes or blocks",
+            "3": "File attributes",
+            "4": "File extensions"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of the file control block (FCB) number?",
+        "options": {
+            "1": "To identify individual files",
+            "2": "To store file attributes",
+            "3": "To provide access privileges",
+            "4": "To track file open count"
+        },
+        "correct option": 1
+    },
+    {
+        "question": "What type of lock does the operating system enforce in Windows?",
+        "options": {
+            "1": "Advisory lock",
+            "2": "Mandatory lock",
+            "3": "None",
+            "4": "Both"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of the index method in file access?",
+        "options": {
+            "1": "To provide sequential access",
+            "2": "To provide direct access",
+            "3": "To provide faster access",
+            "4": "To provide relative access"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What is the goal of the operating system in locating data on the disk?",
+        "options": {
+            "1": "To locate data in the longest possible time",
+            "2": "To locate data in the shortest possible time",
+            "3": "To locate data in a sequential manner",
+            "4": "To locate data in a random manner"
+        },
+        "correct option": 2
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 0.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "Files and file names",
+            "2": "Data stored in blocks",
+            "3": "Logical concepts",
+            "4": "User and programmer details"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the standard size of a sector on a disk?",
+        "options": {
+            "1": "256 bytes",
+            "2": "512 bytes",
+            "3": "1024 bytes",
+            "4": "2048 bytes"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is used by programmers and users to identify individual files?",
+        "options": {
+            "1": "File name",
+            "2": "File control block number",
+            "3": "Index node number",
+            "4": "File attributes"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "Who has read, write, and execute privileges for a file by default?",
+        "options": {
+            "1": "Group members",
+            "2": "File owner",
+            "3": "Operating system",
+            "4": "Programmers"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What system call can be used in Linux or Unix to seek within a file?",
+        "options": {
+            "1": "LSEC",
+            "2": "OPEN",
+            "3": "READ",
+            "4": "WRITE"
+        },
+        "correct option": 1
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 4.00
+[
+    {
+        "question": "What is stored on the disk in terms of storage management?",
+        "options": {
+            "1": "File names",
+            "2": "Bytes or blocks of data",
+            "3": "File structures",
+            "4": "File attributes"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of an I-node or file control block?",
+        "options": {
+            "1": "To store file attributes",
+            "2": "To identify individual files",
+            "3": "To track file open count",
+            "4": "To enforce file locking"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What type of lock is enforced by the operating system in Windows?",
+        "options": {
+            "1": "Advisory lock",
+            "2": "Mandatory lock",
+            "3": "No lock",
+            "4": "Conditional lock"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of seeking within a file?",
+        "options": {
+            "1": "To read a file",
+            "2": "To write a file",
+            "3": "To position the file pointer within the file",
+            "4": "To delete a file"
+        },
+        "correct option": 3
+    },
+    {
+        "question": "What is a file extension in Unix and Linux, but not in Windows?",
+        "options": {
+            "1": "Required for executable files",
+            "2": "Optional for executable files",
+            "3": "Not used for executable files",
+            "4": "Used for batch files only"
+        },
+        "correct option": 2
+    }
+]
+
+Video Title: example_video.mp4, Timestamp: 8.00
+[
+    {
+        "question": "What is stored on the disk in terms of bytes or blocks?",
+        "options": {
+            "1": "File names",
+            "2": "Data blocks",
+            "3": "File attributes",
+            "4": "File permissions"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of the file control block (FCB) or inode?",
+        "options": {
+            "1": "To identify individual files",
+            "2": "To protect file access",
+            "3": "To store file attributes",
+            "4": "To track open files"
+        },
+        "correct option": 1
+    },
+    {
+        "question": "What is the purpose of seeking within a file?",
+        "options": {
+            "1": "To read a file from the beginning",
+            "2": "To position the file pointer at a specific location",
+            "3": "To write a file to the end",
+            "4": "To delete a file"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What type of lock is enforced by some operating systems, preventing other processes from accessing a file?",
+        "options": {
+            "1": "Advisory lock",
+            "2": "Mandatory lock",
+            "3": "Sequential lock",
+            "4": "Relative lock"
+        },
+        "correct option": 2
+    },
+    {
+        "question": "What is the purpose of the index method in file access?",
+        "options": {
+            "1": "To simulate sequential access",
+            "2": "To provide faster access to data",
+            "3": "To store file attributes",
+            "4": "To track open files"
+        },
+        "correct option": 2
+    }
+]

@@ -1,0 +1,101 @@
+/* Global reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Home page container */
+  .home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 20px;
+    font-family: Arial, sans-serif;
+    padding-left: 230px;
+    background-color: #f4f7fc;
+    color: #333;
+    max-width: 1200px; /* Set a max-width to keep content centered */
+    margin: 0 auto; /* Center the content */
+  }
+  
+  /* Header styles */
+  .home-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .home-header h1 {
+    font-size: 2.5em;
+    color: #1e88e5; /* Primary color */
+  }
+  
+  .home-subtitle {
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+  /* Description section */
+  .home-description {
+    max-width: 800px;
+    text-align: center;
+    font-size: 1.1em;
+    margin-bottom: 40px;
+    line-height: 1.6;
+    color: #555;
+  }
+  
+  /* Features section */
+  .home-features {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  /* Feature card styling */
+  .feature-card {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+  }
+  
+  .feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .feature-card h2 {
+    font-size: 1.5em;
+    color: #1e88e5; /* Primary color */
+    margin-bottom: 10px;
+  }
+  
+  .feature-card p {
+    font-size: 1em;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .home-description {
+      font-size: 1em;
+      padding: 0 15px;
+    }
+  
+    .home-features {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .feature-card {
+      width: 100%;
+      max-width: 350px;
+    }
+  }
+  
